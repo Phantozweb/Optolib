@@ -1,0 +1,16 @@
+# Pharmacological Treatment
+
+# Binocular Vision Prognosis - Pharmacotherapy
+
+## Medication Options
+Drugs used in treatment.
+
+## Dosing and Administration
+Proper use of medications.
+
+## Adverse Effects
+Potential side effects and their management.
+
+---
+**Folder:** Binocular Vision Prognosis
+**Category:** Binocular Vision
