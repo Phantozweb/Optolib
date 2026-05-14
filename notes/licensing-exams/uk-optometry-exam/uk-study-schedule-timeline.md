@@ -1,0 +1,28 @@
+# UK Study Schedule - Timeline
+
+## Examination Strategy for UK College of Optometrists
+
+### Time Management
+
+- Allocate 1.5-2 minutes per question
+- Flag difficult questions
+- Reserve time for review
+
+### Question Approach
+
+1. Read entire question
+2. Identify key information
+3. Eliminate wrong answers
+4. Select best option
+
+### High-Yield Topics
+
+- Glaucoma
+- Diabetic retinopathy
+- Refraction
+- Contact lenses
+- Pharmacology
+
+---
+
+*Strategy guide for UK College of Optometrists.*

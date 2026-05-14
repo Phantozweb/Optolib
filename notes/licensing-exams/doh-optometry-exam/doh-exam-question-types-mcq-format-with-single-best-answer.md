@@ -1,0 +1,45 @@
+# DOH Exam Question Types - MCQ Format with Single Best Answer
+
+## Overview
+
+This comprehensive guide covers exam-pattern for the DOH Abu Dhabi optometry licensing examination.
+
+## Key Concepts
+
+### Definition
+
+exam-pattern encompasses essential knowledge for optometric practice.
+
+### Clinical Relevance
+
+- Patient assessment
+- Diagnosis formulation
+- Treatment planning
+- Referral decisions
+
+## Core Content
+
+1. **Basic Concepts**
+   - Definition and terminology
+   - Classification systems
+   - Prevalence
+
+2. **Clinical Assessment**
+   - History taking
+   - Examination techniques
+   - Diagnostic criteria
+
+3. **Management**
+   - Treatment options
+   - Follow-up protocols
+   - Referral criteria
+
+## Examination Focus
+
+- Direct knowledge questions
+- Clinical scenarios
+- Management decisions
+
+---
+
+*This guide prepares you for DOH Abu Dhabi examination.*
